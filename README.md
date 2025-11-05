@@ -1,8 +1,8 @@
-# Awesome n8n [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome N8N [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A comprehensive awesome list for n8n - the workflow automation platform for technical people.
 
-[n8n](https://n8n.io/) is a free and open-source workflow automation tool that allows you to connect different services and automate tasks. Unlike other automation tools, n8n is self-hostable, provides source-available code, and gives you full control over your data.
+n8n is a free and open-source workflow automation tool that allows you to connect different services and automate tasks. Unlike other automation tools, n8n is self-hostable, provides source-available code, and gives you full control over your data.
 
 ## Contents
 
@@ -66,7 +66,7 @@ Popular community-created nodes extending n8n's capabilities.
 
 ### Communication & Messaging
 
-- [WhatsApp Business](https://www.npmjs.com/package/n8n-nodes-whatsapp) - WhatsApp Business API integration.
+- [WhatsApp Business](https://www.npmjs.com/package/n8n-nodes-whatsapp) - API integration for messaging platform.
 - [Telegram Advanced](https://www.npmjs.com/package/n8n-nodes-telegram-advanced) - Extended Telegram functionality.
 - [Discord Advanced](https://www.npmjs.com/package/n8n-nodes-discord-advanced) - Enhanced Discord integration.
 - [Chatwoot](https://www.npmjs.com/package/n8n-nodes-chatwoot) - Open-source customer engagement platform.
@@ -103,9 +103,9 @@ Popular community-created nodes extending n8n's capabilities.
 
 - [OpenAI Advanced](https://www.npmjs.com/package/n8n-nodes-openai-advanced) - Extended OpenAI capabilities.
 - [Anthropic Claude](https://www.npmjs.com/package/n8n-nodes-anthropic) - Claude AI integration.
-- [LangChain](https://www.npmjs.com/package/n8n-nodes-langchain) - LangChain framework integration.
+- [LangChain](https://www.npmjs.com/package/n8n-nodes-langchain) - Framework for building LLM applications.
 - [ElevenLabs](https://www.npmjs.com/package/n8n-nodes-elevenlabs) - AI voice generation.
-- [DeepSeek](https://www.npmjs.com/package/n8n-nodes-deepseek) - DeepSeek AI models.
+- [DeepSeek](https://www.npmjs.com/package/n8n-nodes-deepseek) - AI language models integration.
 - [Perplexity AI](https://www.npmjs.com/package/n8n-nodes-perplexity) - Perplexity search integration.
 - [MCP Nodes](https://www.npmjs.com/package/n8n-nodes-mcp) - Model Context Protocol integration.
 
@@ -114,14 +114,14 @@ Popular community-created nodes extending n8n's capabilities.
 - [HubSpot Advanced](https://www.npmjs.com/package/n8n-nodes-hubspot-advanced) - Extended HubSpot functionality.
 - [Salesforce Advanced](https://www.npmjs.com/package/n8n-nodes-salesforce-advanced) - Enhanced Salesforce integration.
 - [Pipedrive Extended](https://www.npmjs.com/package/n8n-nodes-pipedrive-extended) - Additional Pipedrive features.
-- [Zoho CRM](https://www.npmjs.com/package/n8n-nodes-zoho-crm) - Zoho CRM integration.
+- [Zoho CRM](https://www.npmjs.com/package/n8n-nodes-zoho-crm) - Customer relationship management platform.
 - [Kommo CRM](https://www.npmjs.com/package/n8n-nodes-kommo) - Kommo (amoCRM) integration.
 
 ### Analytics & BI
 
 - [Google Analytics 4](https://www.npmjs.com/package/n8n-nodes-ga4) - GA4 reporting and data export.
 - [Power BI](https://www.npmjs.com/package/n8n-nodes-powerbi) - Microsoft Power BI integration.
-- [Tableau](https://www.npmjs.com/package/n8n-nodes-tableau) - Tableau data connector.
+- [Tableau](https://www.npmjs.com/package/n8n-nodes-tableau) - Business intelligence data connector.
 - [Mixpanel](https://www.npmjs.com/package/n8n-nodes-mixpanel) - Product analytics integration.
 - [Amplitude](https://www.npmjs.com/package/n8n-nodes-amplitude) - Digital analytics platform.
 
@@ -179,14 +179,14 @@ Integrations for enterprise systems and tools.
 
 ### Enterprise CRM
 
-- [Salesforce](https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-base.salesforce/) - Salesforce integration with custom objects.
-- [Microsoft Dynamics CRM](https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-base.microsoftdynamics/) - Dynamics CRM connector.
-- [ServiceNow](https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-base.servicenow/) - ServiceNow ITSM integration.
-- [Zendesk](https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-base.zendesk/) - Zendesk support platform.
+- [Salesforce](https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-base.salesforce/) - Enterprise CRM with custom object support.
+- [Microsoft Dynamics CRM](https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-base.microsoftdynamicscrm/) - Dynamics CRM connector.
+- [ServiceNow](https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-base.servicenow/) - IT service management platform.
+- [Zendesk](https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-base.zendesk/) - Customer support ticketing system.
 
 ### HR & Workforce
 
-- [Workday](https://docs.n8n.io/integrations/community-nodes/n8n-nodes-workday/) - Workday HCM integration.
+- [Workday](https://docs.n8n.io/integrations/community-nodes/n8n-nodes-workday/) - Human capital management system.
 - [BambooHR](https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-base.bamboohr/) - HR management system.
 - [ADP](https://docs.n8n.io/integrations/community-nodes/n8n-nodes-adp/) - Payroll and HR integration.
 - [UKG (Ultimate Kronos Group)](https://docs.n8n.io/integrations/community-nodes/n8n-nodes-ukg/) - Workforce management.
@@ -207,7 +207,7 @@ Integrate AI and large language models into your workflows.
 - [OpenAI](https://docs.n8n.io/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.lmopenai/) - GPT-4, GPT-3.5, and embeddings.
 - [Anthropic Claude](https://docs.n8n.io/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.lmclaude/) - Claude 3 Opus, Sonnet, and Haiku.
 - [Google Gemini](https://docs.n8n.io/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.lmgemini/) - Google's Gemini models.
-- [Cohere](https://docs.n8n.io/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.lmcohere/) - Cohere language models.
+- [Cohere](https://docs.n8n.io/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.lmcohere/) - Natural language processing models.
 - [Hugging Face](https://docs.n8n.io/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.lmhuggingface/) - Access thousands of open-source models.
 - [Azure OpenAI](https://docs.n8n.io/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.lmazureopenai/) - Microsoft Azure hosted OpenAI.
 
@@ -239,31 +239,24 @@ Options for hosting and deploying n8n.
 
 ### Cloud Platforms
 
-- [n8n Cloud](https://n8n.io/cloud/) - Official managed hosting with automatic updates.
 - [AWS Deployment Guide](https://blog.n8n.io/deploy-n8n-on-aws/) - Deploy n8n on AWS EC2, ECS, or Lambda.
 - [Google Cloud Platform](https://blog.n8n.io/deploy-n8n-on-gcp/) - Deploy on GCP Compute Engine or Cloud Run.
 - [Microsoft Azure](https://blog.n8n.io/deploy-n8n-on-azure/) - Deploy on Azure App Service or Container Instances.
-- [DigitalOcean](https://marketplace.digitalocean.com/apps/n8n) - One-click droplet deployment.
 - [Linode](https://www.linode.com/marketplace/apps/n8n/n8n/) - Marketplace app deployment.
 
 ### PaaS Providers
 
-- [Railway](https://railway.app/template/n8n) - One-click deployment with automatic HTTPS.
-- [Render](https://render.com/docs/deploy-n8n) - Deploy n8n with persistent storage.
 - [Fly.io](https://fly.io/docs/app-guides/n8n/) - Global edge deployment.
 - [Heroku](https://elements.heroku.com/buttons/n8n-io/n8n) - Deploy to Heroku with one click.
 - [Coolify](https://coolify.io/) - Self-hostable Heroku alternative.
 
 ### Container Orchestration
 
-- [Docker Compose](https://docs.n8n.io/hosting/installation/docker/) - Multi-container setup with PostgreSQL.
-- [Kubernetes](https://github.com/n8n-io/n8n-kubernetes) - Helm charts for Kubernetes deployment.
 - [k3s Deployment](https://blog.n8n.io/deploy-n8n-on-k3s/) - Lightweight Kubernetes deployment.
 - [Nomad](https://github.com/hashicorp/nomad/tree/main/jobspec/test-fixtures/n8n) - HashiCorp Nomad job specification.
 
 ### Self-Hosting
 
-- [Bare Metal Installation](https://docs.n8n.io/hosting/installation/npm/) - Install directly on Linux servers.
 - [Raspberry Pi Deployment](https://blog.n8n.io/run-n8n-on-raspberry-pi/) - Run n8n on ARM devices.
 - [Nginx Reverse Proxy](https://docs.n8n.io/hosting/configuration/reverse-proxy/) - Secure n8n behind Nginx.
 - [Traefik Configuration](https://blog.n8n.io/traefik-reverse-proxy/) - Use Traefik as reverse proxy.
@@ -345,7 +338,7 @@ Tools and techniques for monitoring n8n deployments.
 
 - [PagerDuty Integration](https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-base.pagerduty/) - Incident management alerts.
 - [Opsgenie](https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-base.opsgenie/) - Alert and on-call management.
-- [Slack Alerts](https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-base.slack/) - Send alerts to Slack channels.
+- [Slack Alerts](https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-base.slack/) - Notifications to Slack channels.
 - [Email Notifications](https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.emailsend/) - Email-based alerting.
 
 ### Performance
@@ -383,7 +376,7 @@ Proven patterns and best practices for building workflows.
 ### Scalability
 
 - [Horizontal Scaling](https://docs.n8n.io/hosting/scaling/horizontal-scaling/) - Scale n8n across multiple instances.
-- [Queue Mode Setup](https://docs.n8n.io/hosting/scaling/queue-mode/) - Distribute workflow execution.
+- [Queue Mode with Redis](https://blog.n8n.io/queue-mode-redis/) - Distribute workflow execution across workers.
 - [Database Scaling](https://blog.n8n.io/database-scaling/) - Scale PostgreSQL for high loads.
 - [Microservices Pattern](https://blog.n8n.io/n8n-microservices/) - Build distributed systems with n8n.
 
@@ -406,14 +399,14 @@ Educational materials for mastering n8n.
 
 ### Blogs & Articles
 
-- [n8n Official Blog](https://blog.n8n.io/) - Tutorials, case studies, and announcements.
+- [n8n Tutorials Blog](https://blog.n8n.io/tag/tutorials/) - Step-by-step tutorials and guides.
 - [n8n Community Tutorials](https://community.n8n.io/c/tutorials/) - User-contributed tutorials.
 - [Medium n8n Tag](https://medium.com/tag/n8n) - Articles about n8n on Medium.
 - [Dev.to n8n Articles](https://dev.to/t/n8n) - Developer tutorials and guides.
 
 ### Video Resources
 
-- [n8n YouTube Channel](https://www.youtube.com/c/n8n-io) - Official video tutorials.
+- [n8n Video Library](https://www.youtube.com/c/n8n-io/playlists) - Complete video playlists collection.
 - [Workflow Walkthroughs](https://www.youtube.com/playlist?list=PLFzy-BF-ObbwlRCLh6wJ0T4dXvGC-rBbB) - Step-by-step workflow builds.
 - [n8n Live Streams](https://www.youtube.com/playlist?list=PLFzy-BF-ObbxJlF-MJhwUVNLY_0Z0rYAU) - Community Q&A and demos.
 
@@ -423,7 +416,7 @@ Connect with the n8n community.
 
 ### Forums & Discussion
 
-- [n8n Community Forum](https://community.n8n.io/) - Official community discussion board.
+- [n8n Forum](https://community.n8n.io/categories) - Discussion categories and topics.
 - [Reddit r/n8n](https://www.reddit.com/r/n8n/) - n8n subreddit for discussions.
 - [Discord Server](https://discord.gg/n8n) - Real-time chat with community members.
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/n8n) - Technical Q&A.
@@ -486,7 +479,7 @@ Additional tools to enhance your n8n experience.
 ### CLI Tools
 
 - [n8n CLI](https://www.npmjs.com/package/n8n) - Official command-line interface.
-- [n8n-node-dev](https://www.npmjs.com/package/@n8n/n8n-nodes-dev) - Development CLI tools.
+- [n8n-node-dev CLI](https://www.npmjs.com/package/n8n-node-dev) - Node scaffolding and development tools.
 - [n8n-workflow-cli](https://github.com/quansenB/n8n-workflow-cli) - Export and import workflows via CLI.
 
 ### Testing & Quality
