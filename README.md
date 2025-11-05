@@ -194,7 +194,7 @@ Integrations for enterprise systems and tools.
 ### Enterprise Communication
 
 - [Microsoft Teams](https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-base.microsoftteams/) - Teams collaboration platform.
-- [Slack Enterprise Grid](https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-base.slack/) - Enterprise Slack integration.
+- [Slack Enterprise Grid](https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-base.slack/) - Enterprise team collaboration.
 - [Zoom](https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-base.zoom/) - Video conferencing integration.
 - [Cisco Webex](https://docs.n8n.io/integrations/community-nodes/n8n-nodes-webex/) - Webex collaboration tools.
 
@@ -270,7 +270,7 @@ Tools for developing custom n8n nodes and integrations.
 - [n8n Node Starter](https://github.com/n8n-io/n8n-node-starter) - Boilerplate for creating custom nodes.
 - [Node Development Docs](https://docs.n8n.io/integrations/creating-nodes/) - Official guide to node development.
 - [TypeScript SDK](https://github.com/n8n-io/n8n/tree/master/packages/nodes-base) - n8n TypeScript SDK and utilities.
-- [Node Generator CLI](https://www.npmjs.com/package/n8n-node-dev) - CLI tool to scaffold new nodes.
+- [Node Generator](https://www.npmjs.com/package/create-n8n-node) - Scaffold new custom nodes.
 
 ### Testing & Debugging
 
@@ -338,7 +338,7 @@ Tools and techniques for monitoring n8n deployments.
 
 - [PagerDuty Integration](https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-base.pagerduty/) - Incident management alerts.
 - [Opsgenie](https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-base.opsgenie/) - Alert and on-call management.
-- [Slack Alerts](https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-base.slack/) - Notifications to Slack channels.
+- [Slack Notifications](https://blog.n8n.io/slack-notifications/) - Send alerts to Slack channels.
 - [Email Notifications](https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.emailsend/) - Email-based alerting.
 
 ### Performance
