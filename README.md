@@ -72,6 +72,9 @@ Popular community-created nodes extending n8n's capabilities.
 - [Chatwoot](https://www.npmjs.com/package/n8n-nodes-chatwoot) - Open-source customer engagement platform.
 - [Twilio Advanced](https://www.npmjs.com/package/n8n-nodes-twilio-advanced) - Extended Twilio capabilities.
 - [Zalo](https://www.npmjs.com/package/n8n-nodes-zalo) - Vietnamese messaging platform integration.
+- [Matrix](https://www.npmjs.com/package/n8n-nodes-matrix) - Decentralized communication protocol.
+- [Mattermost](https://www.npmjs.com/package/n8n-nodes-mattermost) - Open-source team collaboration.
+- [RocketChat](https://www.npmjs.com/package/n8n-nodes-rocketchat) - Team chat platform integration.
 
 ### Document Generation
 
@@ -96,8 +99,10 @@ Popular community-created nodes extending n8n's capabilities.
 - [JSON Tools](https://www.npmjs.com/package/n8n-nodes-json-tools) - JSON parsing and transformation.
 - [CSV Parser](https://www.npmjs.com/package/n8n-nodes-csv-advanced) - Advanced CSV operations.
 - [XML Parser](https://www.npmjs.com/package/n8n-nodes-xml-parser) - XML parsing and conversion.
+- [YAML Parser](https://www.npmjs.com/package/n8n-nodes-yaml) - YAML file processing.
 - [OCR](https://www.npmjs.com/package/n8n-nodes-ocr) - Optical character recognition.
 - [Tesseract OCR](https://www.npmjs.com/package/n8n-nodes-tesseract) - Open-source OCR engine.
+- [Data Validation](https://www.npmjs.com/package/n8n-nodes-validator) - Schema validation and data cleaning.
 
 ### AI & Machine Learning
 
@@ -108,6 +113,9 @@ Popular community-created nodes extending n8n's capabilities.
 - [DeepSeek](https://www.npmjs.com/package/n8n-nodes-deepseek) - AI language models integration.
 - [Perplexity AI](https://www.npmjs.com/package/n8n-nodes-perplexity) - Perplexity search integration.
 - [MCP Nodes](https://www.npmjs.com/package/n8n-nodes-mcp) - Model Context Protocol integration.
+- [Replicate](https://www.npmjs.com/package/n8n-nodes-replicate) - Run AI models in the cloud.
+- [Cohere](https://www.npmjs.com/package/n8n-nodes-cohere) - NLP and text generation models.
+- [HuggingFace](https://www.npmjs.com/package/n8n-nodes-huggingface) - Access to thousands of ML models.
 
 ### CRM & Sales
 
@@ -116,6 +124,9 @@ Popular community-created nodes extending n8n's capabilities.
 - [Pipedrive Extended](https://www.npmjs.com/package/n8n-nodes-pipedrive-extended) - Additional Pipedrive features.
 - [Zoho CRM](https://www.npmjs.com/package/n8n-nodes-zoho-crm) - Customer relationship management platform.
 - [Kommo CRM](https://www.npmjs.com/package/n8n-nodes-kommo) - Kommo (amoCRM) integration.
+- [Freshsales](https://www.npmjs.com/package/n8n-nodes-freshsales) - Modern CRM for high-velocity sales.
+- [Close CRM](https://www.npmjs.com/package/n8n-nodes-close) - Sales engagement CRM platform.
+- [Monday CRM](https://www.npmjs.com/package/n8n-nodes-monday) - Work operating system with CRM capabilities.
 
 ### Analytics & BI
 
