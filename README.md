@@ -243,6 +243,9 @@ Integrate AI and large language models into your workflows.
 - [Midjourney](https://docs.n8n.io/integrations/community-nodes/n8n-nodes-midjourney/) - AI image generation.
 - [AssemblyAI](https://docs.n8n.io/integrations/community-nodes/n8n-nodes-assemblyai/) - Speech-to-text transcription.
 - [Whisper API](https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-base.openai/) - OpenAI audio transcription.
+- [Replicate](https://docs.n8n.io/integrations/community-nodes/n8n-nodes-replicate/) - Run open-source models in the cloud.
+- [Perplexity AI](https://docs.n8n.io/integrations/community-nodes/n8n-nodes-perplexity/) - Conversational search engine.
+- [Together AI](https://docs.n8n.io/integrations/community-nodes/n8n-nodes-together/) - Inference for open-source models.
 
 ## Hosting & Deployment
 
@@ -497,6 +500,19 @@ Additional tools to enhance your n8n experience.
 
 - [n8n-workflow-test](https://github.com/digital-boss/n8n-workflow-test) - Automated workflow testing.
 - [n8n-validator](https://github.com/digital-boss/n8n-validator) - Validate workflow configurations.
+- [n8n-linter](https://github.com/digital-boss/n8n-linter) - Lint workflows for best practices.
+
+### Monitoring & Observability
+
+- [n8n-prometheus-exporter](https://github.com/digital-boss/n8n-prometheus-exporter) - Export metrics to Prometheus.
+- [n8n-grafana-dashboard](https://github.com/digital-boss/n8n-grafana-dashboard) - Grafana dashboard for n8n.
+- [n8n-health-check](https://github.com/digital-boss/n8n-health-check) - Health monitoring for n8n instances.
+
+### Development Tools
+
+- [n8n-nodes-starter](https://github.com/n8n-io/n8n-nodes-starter) - Template for custom node development.
+- [n8n-workflow-debugger](https://github.com/digital-boss/n8n-workflow-debugger) - Debug workflows with enhanced logging.
+- [n8n-api-client](https://github.com/quansenB/n8n-api-client) - TypeScript client for n8n API.
 - [n8n-lint](https://github.com/digital-boss/n8n-lint) - Linting for n8n workflows.
 
 ### Visualization
