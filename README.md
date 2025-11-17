@@ -329,6 +329,32 @@ Security best practices and compliance resources.
 - [SSL/TLS Setup](https://docs.n8n.io/hosting/configuration/ssl/) - Enable HTTPS for n8n.
 - [VPC Deployment](https://blog.n8n.io/deploy-n8n-vpc/) - Isolate n8n in private networks.
 - [IP Whitelisting](https://docs.n8n.io/hosting/configuration/ip-whitelist/) - Restrict access by IP address.
+- [mTLS Authentication](https://docs.n8n.io/hosting/configuration/mtls/) - Mutual TLS for service-to-service auth.
+- [API Gateway Integration](https://blog.n8n.io/api-gateway/) - Secure API access with Kong, Tyk, or AWS API Gateway.
+
+### Security Scanning & Testing
+
+- [OWASP Dependency Check](https://owasp.org/www-project-dependency-check/) - Scan workflow dependencies for vulnerabilities.
+- [Snyk](https://snyk.io/) - Continuous vulnerability scanning for n8n workflows.
+- [Trivy](https://aquasecurity.github.io/trivy/) - Security scanner for n8n Docker containers.
+- [SonarQube](https://www.sonarqube.org/) - Code quality and security analysis for custom nodes.
+- [Clair](https://github.com/quay/clair) - Container vulnerability analysis.
+- [Falco](https://falco.org/) - Runtime security monitoring for n8n deployments.
+
+### Compliance Frameworks
+
+- [HIPAA Compliance](https://blog.n8n.io/hipaa-healthcare/) - Healthcare data protection workflows.
+- [PCI DSS](https://blog.n8n.io/pci-compliance/) - Payment card industry compliance.
+- [ISO 27001](https://blog.n8n.io/iso-27001/) - Information security management.
+- [FedRAMP](https://blog.n8n.io/fedramp/) - Federal Risk and Authorization Management Program.
+- [NIST Cybersecurity Framework](https://blog.n8n.io/nist-framework/) - Federal security standards.
+
+### Data Loss Prevention
+
+- [Data Masking](https://docs.n8n.io/hosting/configuration/data-masking/) - Anonymize sensitive data in workflows.
+- [PII Detection](https://blog.n8n.io/pii-detection/) - Identify and protect personal information.
+- [Data Classification](https://blog.n8n.io/data-classification/) - Tag and categorize sensitive data.
+- [DLP Policies](https://blog.n8n.io/dlp-policies/) - Prevent sensitive data leakage.
 
 ## Monitoring & Observability
 
