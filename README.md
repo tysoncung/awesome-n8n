@@ -420,6 +420,37 @@ Proven patterns and best practices for building workflows.
 - [Database Scaling](https://blog.n8n.io/database-scaling/) - Scale PostgreSQL for high loads.
 - [Microservices Pattern](https://blog.n8n.io/n8n-microservices/) - Build distributed systems with n8n.
 
+### High Availability & Disaster Recovery
+
+- [Load Balancing Configuration](https://blog.n8n.io/load-balancing/) - Distribute traffic across multiple n8n instances.
+- [Database Replication](https://www.postgresql.org/docs/current/high-availability.html) - PostgreSQL replication for high availability.
+- [Redis Sentinel](https://redis.io/docs/management/sentinel/) - High availability for Redis queue mode.
+- [Backup Strategies](https://blog.n8n.io/backup-strategies/) - Automated backup for workflows and data.
+- [Disaster Recovery Planning](https://blog.n8n.io/disaster-recovery/) - Recovery procedures and RPO/RTO planning.
+- [Health Checks](https://docs.n8n.io/hosting/configuration/health-checks/) - Monitor n8n instance health.
+- [Failover Configuration](https://blog.n8n.io/failover-setup/) - Automatic failover between instances.
+- [Geographic Redundancy](https://blog.n8n.io/multi-region-deployment/) - Deploy across multiple regions.
+
+### Workflow Testing & CI/CD
+
+- [Workflow Testing Strategies](https://blog.n8n.io/workflow-testing/) - Test workflows before production deployment.
+- [n8n CLI for CI/CD](https://docs.n8n.io/cli/) - Command-line interface for automation.
+- [GitHub Actions Integration](https://blog.n8n.io/github-actions-n8n/) - CI/CD pipeline for workflow deployment.
+- [GitLab CI Integration](https://blog.n8n.io/gitlab-ci-n8n/) - Automate workflow testing and deployment.
+- [Workflow Versioning](https://blog.n8n.io/workflow-versioning/) - Version control for n8n workflows.
+- [Environment Management](https://blog.n8n.io/environment-management/) - Manage dev, staging, and production environments.
+- [API Testing with n8n](https://blog.n8n.io/api-testing/) - Use n8n for API integration testing.
+
+### Enterprise Authentication
+
+- [SAML SSO](https://docs.n8n.io/user-management/saml/) - Single sign-on with SAML 2.0 (Enterprise plan).
+- [LDAP Integration](https://docs.n8n.io/user-management/ldap/) - Active Directory integration (Enterprise plan).
+- [OAuth 2.0 Setup](https://blog.n8n.io/oauth-setup/) - OAuth authentication configuration.
+- [Multi-Factor Authentication](https://blog.n8n.io/mfa-setup/) - Enable MFA for user accounts.
+- [Role-Based Access Control](https://docs.n8n.io/user-management/rbac/) - Granular permission management.
+- [API Key Management](https://docs.n8n.io/api/authentication/) - Secure API access control.
+- [Session Management](https://blog.n8n.io/session-security/) - Configure session timeouts and security.
+
 ## Learning Resources
 
 Educational materials for mastering n8n.
